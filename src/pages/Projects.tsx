@@ -8,7 +8,7 @@ const Projects = () => {
     {
       title: "Youtube-Backend",
       description: "Implemented the backend of a Youtube-type platform featuring watch history, video upload with date and uploader info, search functionality, comments and playlist management.",
-      date: "April 2025",
+      date: "Building",
       link: "https://github.com/HakeemHameem/youtube-backend"
     },
     {
